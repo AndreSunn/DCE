@@ -1,0 +1,840 @@
+{
+  "schemaVersion": 1,
+  "exportDate": "2026-10-25",
+  "purpose": "Sanitized public reference copies; not production activation",
+  "evaluations": "PAUSED",
+  "sourceInventoryCount": 47,
+  "configuredSourceHashesVerified": 35,
+  "statusCounts": {
+    "accepted_historical": 34,
+    "unregistered_unverified": 1,
+    "unpromoted_candidate": 2,
+    "candidate_duplicate": 9,
+    "active": 1
+  },
+  "current": {
+    "version": "sales-q01-q14-2026-10-23-no-followup-v21",
+    "path": "rule-banks/current/sales-q01-q14-2026-10-23-no-followup-v21.md",
+    "sourceSha256": "74333E609AFA1503A6EEC147C0EB82B69A3537D020B72528E8E0466F4D82DE51",
+    "publishedSha256": "8EF2AE577656DD0ADDB64D0822CB880F2A05834D468ECDE4DD14B8CD75B5129F",
+    "sourceReleaseVerifiedAt": "2026-10-23T06:46:54.539Z"
+  },
+  "statusEvidence": "Read-only local configuration membership and v21 release readback. Historical acceptance is not independent verification of every historical deployment.",
+  "entries": [
+    {
+      "path": "rule-banks/historical/CODEX_SALES_CALL_EVALUATION_RULE_BANK_Q01_Q14 (2).md",
+      "originalFilename": "CODEX_SALES_CALL_EVALUATION_RULE_BANK_Q01_Q14 (2).md",
+      "status": "accepted_historical",
+      "configuredVersion": "codex-sales-q01-q14-v1.0-2026-09-03",
+      "sourceSha256": "EE536EA6B93C652B2EEAA89634E2127F36195A2727474181CF40055AC224A580",
+      "publishedSha256": "391A6C932B48E8A1203F1FC220328D8837A15C75282A354E94B264931AD43A79",
+      "publishedBytes": 32913,
+      "gitBlobSha1": "25dc389e17346358bfd03318cac9978df960133d",
+      "redactions": {
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-06-15-36-05-checklist-fix1-E8F53D2FE993.md",
+      "originalFilename": "sales-q01-q14-2026-09-06-15-36-05-checklist-fix1-E8F53D2FE993.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-06-15-36-05-checklist-fix1",
+      "sourceSha256": "E8F53D2FE993D64F60E9EE4682DAF969289A0F16F5C58AC2CF1A33D4D79EA2C4",
+      "publishedSha256": "C0F45A5F929C77B4F98D71B780A6FBAF418A0924DBA911714657378BE7D2B47E",
+      "publishedBytes": 37968,
+      "gitBlobSha1": "49284f036ab192fca7d8eef204e31c94447553a3",
+      "redactions": {
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-11-cleaned-transcript-verbatim-spelling.md",
+      "originalFilename": "sales-q01-q14-2026-09-11-cleaned-transcript-verbatim-spelling.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-11-cleaned-transcript-verbatim-spelling",
+      "sourceSha256": "7342E25EB463C5E5D1562BD6EE7783A9B56C1AF62691DFE90E5F48D2544101B0",
+      "publishedSha256": "5BE351C4152B324D6086419F9677B0BB7B74DA99C085D9AD6CEE317B9C244C7C",
+      "publishedBytes": 44257,
+      "gitBlobSha1": "a110cbc6d762b2c89a76f1201322fc3c64c315c2",
+      "redactions": {
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-11-transcript-cleaning-additive.md",
+      "originalFilename": "sales-q01-q14-2026-09-11-transcript-cleaning-additive.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-11-transcript-cleaning-additive",
+      "sourceSha256": "E1502D4BFF7CC5C8A883D79CB0EF9D975BE7DB270C15985A20C1EFCD45557F0F",
+      "publishedSha256": "0CCCE57B9C311CA44F378D40A7DE459C24CBE8268760A42FCC39BA401CB22E40",
+      "publishedBytes": 44550,
+      "gitBlobSha1": "73a7d8903bc49b4adaaaaf8e0ceee431aca5fd82",
+      "redactions": {
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-12-spelling-speaker-separation-no-rewrite.md",
+      "originalFilename": "sales-q01-q14-2026-09-12-spelling-speaker-separation-no-rewrite.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-12-spelling-speaker-separation-no-rewrite",
+      "sourceSha256": "11CF7E3986A88CF3CD039A49DF9657DBAF73F06B5DED6D85CBBBF03738F78B6F",
+      "publishedSha256": "B5C79C041AB3D381B9D02E9187D2F9483E3E51882BD6986C1E79A062C2DF3591",
+      "publishedBytes": 44495,
+      "gitBlobSha1": "4da99de049aafff633d46cef21451ff483db5d26",
+      "redactions": {
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-14-result-comment-consistency-q05-q09.md",
+      "originalFilename": "sales-q01-q14-2026-09-14-result-comment-consistency-q05-q09.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-14-result-comment-consistency-q05-q09",
+      "sourceSha256": "EC4FD5124F44058CFDDDAA95E9B22D1E7B14D01056A2F6FA8D80535A6E44AD9A",
+      "publishedSha256": "660CB498CD06F3A2FBC92658B5A0E6C0C7BFE2AAC5855F4DC1C55B24F763E969",
+      "publishedBytes": 47352,
+      "gitBlobSha1": "0a75ea9b7b9112885704d793e0aea1fef18a02a8",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-24-q05-customer-capacity.md",
+      "originalFilename": "sales-q01-q14-2026-09-24-q05-customer-capacity.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-24-q05-customer-capacity",
+      "sourceSha256": "8B0588CF9792B5474FE56500F56C7B8B39AC51EE413C9F218E40ACBF1A885948",
+      "publishedSha256": "FF92267755CF5A9F8E33F7BF21BBDBB9C313241CDD539C41FD628ED8895AE2BC",
+      "publishedBytes": 47859,
+      "gitBlobSha1": "160e09c97d05804cbd931c306716bae0b0caf92e",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/unverified/sales-q01-q14-2026-09-25-sales-opening-voicemail.md",
+      "originalFilename": "sales-q01-q14-2026-09-25-sales-opening-voicemail.md",
+      "status": "unregistered_unverified",
+      "configuredVersion": null,
+      "sourceSha256": "69D1C35DF9550677F2AA7976D16858BA2FF630A7EBF30EEA3C72206AF3E86200",
+      "publishedSha256": "757EBDC3589230191101CC9AE9CF5D6EB3EE1299AA4358C005F73F86A569F7DD",
+      "publishedBytes": 49175,
+      "gitBlobSha1": "37392a54722a7eaffd87b5d4140ed6089cc949dc",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-27-live-followup-marker-variant.md",
+      "originalFilename": "sales-q01-q14-2026-09-27-live-followup-marker-variant.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-27-live-followup-marker-variant",
+      "sourceSha256": "3591562CF47889AA83826AF7205C15557D59EF7ACCB8571D0EE373C6138B25BD",
+      "publishedSha256": "28CB88D8B430AB979ADCAEAF6BD8CDF9C79342BCB74691529ACCDF2B928E1B86",
+      "publishedBytes": 49708,
+      "gitBlobSha1": "8c70a045f695382d60e50a77e85133d1c7e81125",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-27-live-followup.md",
+      "originalFilename": "sales-q01-q14-2026-09-27-live-followup.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-27-live-followup",
+      "sourceSha256": "70A4EE710AB2F634243144ED642C1601FD94C87C0A5813BCF3401136ABEC4F08",
+      "publishedSha256": "724485051CF48E5D300D23C35179BF74DFD4931A26EBFA22EBFDB5C883123B0F",
+      "publishedBytes": 49218,
+      "gitBlobSha1": "5196d484d33094422f2a985f58125d5abb1ffa1c",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/unpromoted/sales-q01-q14-2026-09-27-source-start-window-candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-27-source-start-window-candidate.md",
+      "status": "unpromoted_candidate",
+      "configuredVersion": null,
+      "sourceSha256": "D0C4B97325528C53D7838E3FA554547B0D861EC8C927200FBC8651771B7DE0AB",
+      "publishedSha256": "5920CD9BCF4D9694D287973E0A09084F6BA41D94A7C8030F3FD6E1081CE97B39",
+      "publishedBytes": 48742,
+      "gitBlobSha1": "f8f796c764c008efa0ed6723548fabeec903200c",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-28-followup-prefix.md",
+      "originalFilename": "sales-q01-q14-2026-09-28-followup-prefix.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-28-followup-prefix",
+      "sourceSha256": "038C6C40DC2EF3987CB9C0EB2AFEEE5A9C6CEF897E45757A5F0CC03FFAE75C43",
+      "publishedSha256": "9BA13B60E0A22C11E016769AF457F5CD8AB6954D0405CAABB29EE27CAAA60E91",
+      "publishedBytes": 52635,
+      "gitBlobSha1": "020d4d3a007a3faa027076ee19987ead0b0ffddd",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-28-gpt-6-sol-provenance.md",
+      "originalFilename": "sales-q01-q14-2026-09-28-gpt-6-sol-provenance.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-28-gpt-6-sol-provenance",
+      "sourceSha256": "0EE1D21D91D72E373D1DAF123F6CB5F1BCC3783887EFA87F2474375509F684E1",
+      "publishedSha256": "F9D13BA6E36EDB4A7A50E029F1F6A695C206E5140248010E169B949C4E01F5CB",
+      "publishedBytes": 51096,
+      "gitBlobSha1": "90af894d09aee01a63696cea2ee0315f0d382a6e",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-28-source-only-followup.md",
+      "originalFilename": "sales-q01-q14-2026-09-28-source-only-followup.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-28-source-only-followup",
+      "sourceSha256": "382535C2029E60351F910C52D4C1AC6D878068E3232D6318ED7C0BB8462DBE07",
+      "publishedSha256": "2715CBA9D22A85F1A395DF7A840AA692739745BC1814CC2B78A77804E37251BB",
+      "publishedBytes": 51638,
+      "gitBlobSha1": "e973a04fe8fc9ca96258fa200a001b7261c19ded",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-28-worklist-minimal-no-review.md",
+      "originalFilename": "sales-q01-q14-2026-09-28-worklist-minimal-no-review.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-28-worklist-minimal-no-review",
+      "sourceSha256": "2031BFE0B231507F1723A99E3CC281E7C5C2A2817A181DEC98310AEEE882567C",
+      "publishedSha256": "89439AE45B5889CE37DE98D3183E58CCA5B5D28EF1274310C26CCB98B619815F",
+      "publishedBytes": 54284,
+      "gitBlobSha1": "16ec9aab5dada0c5349c806c187d5eb5cd641d77",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-29-absent-secondary-v7.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-absent-secondary-v7.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "182BEABE99D3BA6E417BE9FD6938D5A808A854AE9C68B3078F41422181E5B484",
+      "publishedSha256": "6A4F0CCC4D0221EE12B10170A75A4F000065BC11448528324F5860D0E0C6278B",
+      "publishedBytes": 73688,
+      "gitBlobSha1": "d55ee7e65c3d513eb0cfc1254890e8ceeb826cd3",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-29-absent-secondary-v7.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-absent-secondary-v7.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-absent-secondary-v7.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-absent-secondary-v7",
+      "sourceSha256": "182BEABE99D3BA6E417BE9FD6938D5A808A854AE9C68B3078F41422181E5B484",
+      "publishedSha256": "DAC57B5B2CCD549D200A05F3EC42FA1D1F34CC26DEFBB5A7651D47FC297A3076",
+      "publishedBytes": 73658,
+      "gitBlobSha1": "751f437797e9b607e9e4aba3984406c892cdd66d",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-audio-coverage-review-candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-audio-coverage-review-candidate.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-audio-coverage-review-candidate",
+      "sourceSha256": "90415B7CE8D30B8AD3BD06D3970196B7CD24BAEDFD82C66CE5286B0BC298D317",
+      "publishedSha256": "920E52688900C61841F90F64ED423B660FD869C77368E81AE66961AF2FA8B3BD",
+      "publishedBytes": 61074,
+      "gitBlobSha1": "929196418b05d5dceaf9ce3b86f2a4ca47927d09",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-local-decision-guard-candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-local-decision-guard-candidate.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-local-decision-guard-candidate",
+      "sourceSha256": "266FBBD37C1B9F2884DB9A8AF800B48141019B32FAEF8F019AE05BBBB16ACB02",
+      "publishedSha256": "A3155D5D75D8766173C4896D8B1329CD169FBD41666156D0BCE8AAAB1E6C1529",
+      "publishedBytes": 55939,
+      "gitBlobSha1": "022ffa6f8f55adf48fc6347e3df79ff40d705a14",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-merged-role-candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-merged-role-candidate.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-merged-role-candidate",
+      "sourceSha256": "D01CCF23EA34173AC905E86B603A14E691752B2EE92A7D708500EE7290B95CBF",
+      "publishedSha256": "7F38EC9649188DB9852E371E13174A8B41444863374C080E599D3E2951143029",
+      "publishedBytes": 64072,
+      "gitBlobSha1": "8216450d04540d86c1043741e43b7e1a5d3c5481",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-merged-role-writer-v2.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-merged-role-writer-v2.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-merged-role-writer-v2",
+      "sourceSha256": "6E3DE264512DA10ACC3FB811A172681550B3D85B85BA34DCF92BD0BB695BD3DA",
+      "publishedSha256": "516ED741D8F640EC6781CEB9EB8076E5D0596AB36F6D59B429FCDD03D7225466",
+      "publishedBytes": 65231,
+      "gitBlobSha1": "440ca6970b1d07d6f32d45a9e747cc39b22e1ffd",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-29-null-clean-hash-v5.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-null-clean-hash-v5.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "2085E891E2FE422331A9114365F564BB31E236527EDA61D49AB96D82C133E336",
+      "publishedSha256": "3471BC2494564DB3F7DEB7145D4F6D8669684CD036BD28668DA50B23477197D2",
+      "publishedBytes": 69623,
+      "gitBlobSha1": "b5dc4e204751dc97f309bc4eb51ea2e5b5ce3528",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-29-null-clean-hash-v5.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-null-clean-hash-v5.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-null-clean-hash-v5.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-null-clean-hash-v5",
+      "sourceSha256": "2085E891E2FE422331A9114365F564BB31E236527EDA61D49AB96D82C133E336",
+      "publishedSha256": "026F7C530BD7F64BD73BA1B7E5AE914E54B368CFEBDDC4EAE07A4FBAF599B15D",
+      "publishedBytes": 69593,
+      "gitBlobSha1": "14407c4b7f4aaefdd7f887dc9dd8fe150c7aa9a2",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-29-protected-review-hash-v4.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-protected-review-hash-v4.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "A1FF570E2C54155E7FA0C92DC52D8060688CD4D4921EBBB003B4488A32E83CCD",
+      "publishedSha256": "699A1957851EBF28058413CD48E04AC3503F3F53AEAC5510FE4B9691253BEFC2",
+      "publishedBytes": 68255,
+      "gitBlobSha1": "fed8ed1730711bb2f33dde02f6e28534a4de010b",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-29-protected-review-hash-v4.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-protected-review-hash-v4.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-protected-review-hash-v4.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-protected-review-hash-v4",
+      "sourceSha256": "A1FF570E2C54155E7FA0C92DC52D8060688CD4D4921EBBB003B4488A32E83CCD",
+      "publishedSha256": "FFBFA38B4B89CADA635711D5CE51785188CDE0E7B88BF2403CA2D8EBB66D6EC4",
+      "publishedBytes": 68225,
+      "gitBlobSha1": "07be7a33a307117eefd03acd9550253b8aed3ebe",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-29-protected-review-reconciliation-v3.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-protected-review-reconciliation-v3.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "6ED1DF6989E85F0CB9FDB54910542C50F680F0610C4668D37B4E926A7A61E50D",
+      "publishedSha256": "E90E2E0656AA1B230D7B0A75B8266C63D8AE635FBCE6D31067A862B5EACD80E1",
+      "publishedBytes": 66693,
+      "gitBlobSha1": "003501205ae13538b134fc6684a8663a7131efbf",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-29-protected-review-reconciliation-v3.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-protected-review-reconciliation-v3.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-protected-review-reconciliation-v3.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-protected-review-reconciliation-v3",
+      "sourceSha256": "6ED1DF6989E85F0CB9FDB54910542C50F680F0610C4668D37B4E926A7A61E50D",
+      "publishedSha256": "D7431CD2A34D6242DEA58BEA624D314B382F61C71B29CBDC87427D79A4A700A6",
+      "publishedBytes": 66663,
+      "gitBlobSha1": "00c97b52e72275cd5a555f4e449cc6c8d5a0fbaa",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-scored-minimal-review-candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-scored-minimal-review-candidate.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-scored-minimal-review-candidate",
+      "sourceSha256": "8BFE1F1DAAD3A72D4DFF3A2C4549522F252CF74F1188E9626E138D9CBD2AA996",
+      "publishedSha256": "29FC4D8C6DF398286C4E75BAEA762214090DC1AE48A0B7E4F3F1ADF6D65F8E56",
+      "publishedBytes": 58069,
+      "gitBlobSha1": "e7a4e6b7d57a6fbb26fbbdd8abba466c884f8d55",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-source-type-only-hotfix.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-source-type-only-hotfix.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-source-type-only-hotfix",
+      "sourceSha256": "4EBF29CBE9D487B4DDC8DB34712D085F2677ED6C8520480A670B5B670C789F7D",
+      "publishedSha256": "952A723267242736C97934C7DAC2F93B7204889A63BBA06847189E09BC159C31",
+      "publishedBytes": 62119,
+      "gitBlobSha1": "350266f50304e2c1575df81b78681fe08d09bf16",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-29-terminal-live-reopen-v6.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-terminal-live-reopen-v6.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "61108B9EF07C421DAB6552AA213B97507EE6781F0DB385C1A523D7F30E77E572",
+      "publishedSha256": "6CD36482AB5E15307E9906C384F67AC3B9F120F77E61DEF7407F42A975C16BC7",
+      "publishedBytes": 72246,
+      "gitBlobSha1": "08bdf13b4fdc96ba81828d73499712bcc993d4dd",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-29-terminal-live-reopen-v6.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-29-terminal-live-reopen-v6.md",
+      "originalFilename": "sales-q01-q14-2026-09-29-terminal-live-reopen-v6.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-29-terminal-live-reopen-v6",
+      "sourceSha256": "61108B9EF07C421DAB6552AA213B97507EE6781F0DB385C1A523D7F30E77E572",
+      "publishedSha256": "C683BB333C18B45B708918233C92BE0DE81E1AF5B230E77A53D23018619F6D54",
+      "publishedBytes": 72216,
+      "gitBlobSha1": "ed2065b3cea438492da4a1f98a3fe58a9a9427bb",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-30-host-path-v8.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-30-host-path-v8.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "AD627BABB3A7BD5B0054CB499C09C9A2E47249A8260C9046A268C65CB1557DD7",
+      "publishedSha256": "DBA64BC1282D751DA36D45DB231DFE2C5A6AEDE1F3804AE2939A0E99368689B7",
+      "publishedBytes": 74830,
+      "gitBlobSha1": "1b5e0b8bfb11eceb74c0a0ce592de388f96fc3a9",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-30-host-path-v8.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-30-host-path-v8.md",
+      "originalFilename": "sales-q01-q14-2026-09-30-host-path-v8.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-30-host-path-v8",
+      "sourceSha256": "AD627BABB3A7BD5B0054CB499C09C9A2E47249A8260C9046A268C65CB1557DD7",
+      "publishedSha256": "827536D0CC0C9D7573DA272F0575582B29A04976619DCA8E6565277C939EF499",
+      "publishedBytes": 74800,
+      "gitBlobSha1": "058766306127bb3d3bf51b5a096572e39c234adc",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-30-light-v10.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-30-light-v10.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "9A3F3E1A4883440F8ADBCBE3EE2E9D32CCE883CD461EDD50B57C121DE63B3077",
+      "publishedSha256": "820848FEAE639BDB64991EB68D209323A087B642BE0F2C46F8717E23CEE76711",
+      "publishedBytes": 77585,
+      "gitBlobSha1": "0ddc492e8d7b85f6b0340c3fa58105a9a56dc613",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-30-light-v10.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-30-light-v10.md",
+      "originalFilename": "sales-q01-q14-2026-09-30-light-v10.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-30-light-v10",
+      "sourceSha256": "9A3F3E1A4883440F8ADBCBE3EE2E9D32CCE883CD461EDD50B57C121DE63B3077",
+      "publishedSha256": "92E68B498DC137C18F899A99C0ECF7C41231E1330EC60525405E9926A385448D",
+      "publishedBytes": 77555,
+      "gitBlobSha1": "031bc4c3f33de14d4944445c591d195bd03d6ea1",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-09-30-model-61-v9.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-30-model-61-v9.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "5F1AB58956EC308E8B5D972ACDBA17E0F51E4AE4B13A7B126F07EE8BCE58E302",
+      "publishedSha256": "5E2965104A505E023DE39E6978966DC1F42E6B92DFE07FCB875EE783D0CACB93",
+      "publishedBytes": 76155,
+      "gitBlobSha1": "4f5624d56872d002e2e7a74fd819575797ed6da5",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-09-30-model-61-v9.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-09-30-model-61-v9.md",
+      "originalFilename": "sales-q01-q14-2026-09-30-model-61-v9.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-09-30-model-61-v9",
+      "sourceSha256": "5F1AB58956EC308E8B5D972ACDBA17E0F51E4AE4B13A7B126F07EE8BCE58E302",
+      "publishedSha256": "4D1B6F74C476BD3D160F92FC8AED4A24D0D2C1F37265D3CFE1088E04498255D5",
+      "publishedBytes": 76125,
+      "gitBlobSha1": "407dbcccf6f296ec32fcc81a86d3941a4eb94f71",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/unpromoted/sales-q01-q14-2026-09-30-write-cap-30-v8.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-09-30-write-cap-30-v8.candidate.md",
+      "status": "unpromoted_candidate",
+      "configuredVersion": null,
+      "sourceSha256": "5D5665AD1943E88DD8CC95B7B26887BF6B22D24ECD46FDF84A942BAA4C467CBB",
+      "publishedSha256": "B9858CA3A11AF062B0E2E89605F441549AA25C04FB9DB299F408F0E01CAF0D4D",
+      "publishedBytes": 75665,
+      "gitBlobSha1": "63b23619774a63dbfaff1ecaeb371ca01dd76e10",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/candidate-copies/sales-q01-q14-2026-10-04-october-scope-v11.candidate.md",
+      "originalFilename": "sales-q01-q14-2026-10-04-october-scope-v11.candidate.md",
+      "status": "candidate_duplicate",
+      "configuredVersion": null,
+      "sourceSha256": "8151B0F77D5FE0F98D9892736500085194D009DD61D4251D5CDD99F4CB3C8999",
+      "publishedSha256": "1961539B41F1DD61DDFD7F981A44839FC91111686ABDF03E84CEAE6FDBC3B73A",
+      "publishedBytes": 78867,
+      "gitBlobSha1": "3a74915a7875750f6f19de776448f33f5a9d3074",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      },
+      "byteIdenticalSourceOf": "sales-q01-q14-2026-10-04-october-scope-v11.md"
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-10-04-october-scope-v11.md",
+      "originalFilename": "sales-q01-q14-2026-10-04-october-scope-v11.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-10-04-october-scope-v11",
+      "sourceSha256": "8151B0F77D5FE0F98D9892736500085194D009DD61D4251D5CDD99F4CB3C8999",
+      "publishedSha256": "CCA5CB094E4ED1B9326383CEAF97DD4F657D084880742C6EC2F34BD2323CF362",
+      "publishedBytes": 78837,
+      "gitBlobSha1": "2a91fb585ab539333ef1c1ddb060b2247978d925",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-10-15-mixed-language-review-v12.md",
+      "originalFilename": "sales-q01-q14-2026-10-15-mixed-language-review-v12.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-10-15-mixed-language-review-v12",
+      "sourceSha256": "5F4C3FCBC8066864546CD99471863B48B2EE04D4A4F9DFD9E7F7F13F33F0DE7E",
+      "publishedSha256": "B2393C084B2C367AD491984F4C1C77B76A4D7CAF929834B824B6406FFBF58366",
+      "publishedBytes": 79985,
+      "gitBlobSha1": "6d90703a74a854ef4c7c395caca3d06d516b5170",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-10-17-mixed-language-destination-v13.md",
+      "originalFilename": "sales-q01-q14-2026-10-17-mixed-language-destination-v13.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-10-17-mixed-language-destination-v13",
+      "sourceSha256": "069A0EDAD971A80BBC20A16821830950FCC2D5902ED8233F7A5C9C4CFCC626BD",
+      "publishedSha256": "17D3D0EA5E8A56CCE992FA2E803828DC2065750BAFAB5F2CC3DBFCD8DD506E96",
+      "publishedBytes": 81022,
+      "gitBlobSha1": "6e5898f39fbaeeeebe491387b58616c02ab196e7",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-10-20-introduction-fragment-v17.md",
+      "originalFilename": "sales-q01-q14-2026-10-20-introduction-fragment-v17.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-10-20-introduction-fragment-v17",
+      "sourceSha256": "758D6742DA5FB0258F94D95E23D32664D8D0BD646E00012AFD0109EC6B0CFDE6",
+      "publishedSha256": "79F3CDCDC944F3699E148AC037AC49BB2B413CA6ABC9CC4F1B6471D47FC74768",
+      "publishedBytes": 85733,
+      "gitBlobSha1": "ebe5dd4363605f450f552bc195c9c87314146de3",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-10-20-q05-mixed-calltracker-v16.md",
+      "originalFilename": "sales-q01-q14-2026-10-20-q05-mixed-calltracker-v16.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-10-20-q05-mixed-calltracker-v16",
+      "sourceSha256": "F4CE099ACEE27410B67CC61E7AF1700130F7B67D4BCCB8CA25513C52608FCE2E",
+      "publishedSha256": "8ADC30A6B734837CA159AED0FAD52D00C4F0B3067B67084048D3B77031358F03",
+      "publishedBytes": 84786,
+      "gitBlobSha1": "c1833d5028ece253b15cc3f731cf26b40d2d66d4",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-10-21-validated-capacity-v19.md",
+      "originalFilename": "sales-q01-q14-2026-10-21-validated-capacity-v19.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-10-21-validated-capacity-v19",
+      "sourceSha256": "966281217E6548CB1BED6C7F492CAC9D7A7EECA6D00B86B104A1E83A7AD41F8D",
+      "publishedSha256": "F569973E8880CFC779F01162444DF9E260CAC74C9B2BE187782BA4A4EB26F342",
+      "publishedBytes": 88454,
+      "gitBlobSha1": "e3d5b3f229c74575a9c1d25fb9003be207306c7c",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/historical/sales-q01-q14-2026-10-22-continuous-review-v20.md",
+      "originalFilename": "sales-q01-q14-2026-10-22-continuous-review-v20.md",
+      "status": "accepted_historical",
+      "configuredVersion": "sales-q01-q14-2026-10-22-continuous-review-v20",
+      "sourceSha256": "D743D788A1EB21A81A06530E4BE2929A04DEDE6F9569200F849EDE4FD3B878C4",
+      "publishedSha256": "9973C7B107732EDEF3E62C9845174458F0A9134354AEB1B1B9C4AC972A874F9B",
+      "publishedBytes": 92006,
+      "gitBlobSha1": "a899ce8eb407cfaefc41e6e9b84eecfd2ef5b40c",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    },
+    {
+      "path": "rule-banks/current/sales-q01-q14-2026-10-23-no-followup-v21.md",
+      "originalFilename": "sales-q01-q14-2026-10-23-no-followup-v21.md",
+      "status": "active",
+      "configuredVersion": "sales-q01-q14-2026-10-23-no-followup-v21",
+      "sourceSha256": "74333E609AFA1503A6EEC147C0EB82B69A3537D020B72528E8E0466F4D82DE51",
+      "publishedSha256": "8EF2AE577656DD0ADDB64D0822CB880F2A05834D468ECDE4DD14B8CD75B5129F",
+      "publishedBytes": 95366,
+      "gitBlobSha1": "42bb01344801928ae4b972ffcc0b2d03b96ea37d",
+      "redactions": {
+        "private_identifiers": 1,
+        "example_dealership": 1,
+        "legacy_approver_names": 2,
+        "workbook_filename": 1,
+        "private_worklist_size": 1,
+        "workbook_fingerprint": 1,
+        "exact_workbook_row": 1
+      }
+    }
+  ]
+}
